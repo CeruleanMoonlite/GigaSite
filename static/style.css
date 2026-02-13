@@ -7,7 +7,7 @@ body {
 
 .products {
     display: grid;
-    grid-gap: 20px;
+    grid-gap: 21px;
 }
 
 .product {
